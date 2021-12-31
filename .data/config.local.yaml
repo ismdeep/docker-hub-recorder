@@ -1,0 +1,2 @@
+bind: '0.0.0.0:8000'
+dsn: 'root:docker-hub-recorder-123456@tcp(127.0.0.1:10004)/docker_hub_recorder?parseTime=true&loc=Local&charset=utf8mb4,utf8'
